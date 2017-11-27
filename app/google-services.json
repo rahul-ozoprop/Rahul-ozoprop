@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104578687929",
+    "firebase_url": "https://rahul-10387.firebaseio.com",
+    "project_id": "rahul-10387",
+    "storage_bucket": "rahul-10387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104578687929:android:4993a8ef143427ce",
+        "android_client_info": {
+          "package_name": "com.webmrahul.mishra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104578687929-771vo486afmr4t9c1ru5pobpo3o7p4f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webmrahul.mishra",
+            "certificate_hash": "1fa7088c9a984d650e15fb1ef7fb86822b1b2346"
+          }
+        },
+        {
+          "client_id": "104578687929-do3qfelggbm0f6kvkf6ubdin3lcnqhne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACub4tKGcxEOsE6wIR3VtyD9t5Ln0Jti4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104578687929-do3qfelggbm0f6kvkf6ubdin3lcnqhne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
